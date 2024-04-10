@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\examen final\examen final\bin\Debug\examen final.exe.config
+C:\Users\PC\source\repos\examen final\examen final\bin\Debug\examen final.exe
+C:\Users\PC\source\repos\examen final\examen final\bin\Debug\examen final.pdb
+C:\Users\PC\source\repos\examen final\examen final\obj\Debug\examen final.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\examen final\examen final\obj\Debug\examen final.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\examen final\examen final\obj\Debug\examen final.exe
+C:\Users\PC\source\repos\examen final\examen final\obj\Debug\examen final.pdb
